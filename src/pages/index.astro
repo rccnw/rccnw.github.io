@@ -5,10 +5,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>rccnw.github.io</title>
+    <title>My Links</title>
+    <!-- Tailwind styles are automatically injected by the Astro integration -->
 </head>
-<body>
-    <h1>Welcome to rccnw.github.io!</h1>
-    <p>This is the root page.</p>
+<body class="bg-gray-100 text-gray-900 font-sans p-8">
+    <div class="container mx-auto max-w-4xl">
+        <h1 class="text-4xl font-bold mb-8 text-center text-blue-700">Resources</h1>
+
+        <section class="mb-12">
+            <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">Development Tools</h2>
+            <ul class="space-y-2">
+                <li class="bg-white p-4 rounded shadow hover:bg-blue-50 transition duration-150">
+                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Placeholder Tool 1</a>
+                    <p class="text-sm text-gray-600 mt-1">Description of the tool.</p>
+                </li>
+                <li class="bg-white p-4 rounded shadow hover:bg-blue-50 transition duration-150">
+                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Placeholder Tool 2</a>
+                    <p class="text-sm text-gray-600 mt-1">Another useful tool description.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section class="mb-12">
+            <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">Documentation</h2>
+            <ul class="space-y-2">
+                <li class="bg-white p-4 rounded shadow hover:bg-green-50 transition duration-150">
+                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-green-600 hover:underline font-medium">Astro Docs</a>
+                </li>
+                <li class="bg-white p-4 rounded shadow hover:bg-green-50 transition duration-150">
+                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-green-600 hover:underline font-medium">Tailwind CSS Docs</a>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">Other Links</h2>
+            <ul class="space-y-2">
+                <li class="bg-white p-4 rounded shadow hover:bg-purple-50 transition duration-150">
+                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-purple-600 hover:underline font-medium">Interesting Article</a>
+                </li>
+            </ul>
+        </section>
+    </div>
 </body>
 </html>

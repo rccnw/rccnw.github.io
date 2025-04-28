@@ -1,51 +1,47 @@
 ---
-// No server-side code needed for a simple page
+import linksRaw from '../data/links.md?raw';
+// Parse the raw Markdown into sections and link items
+const lines = linksRaw
+  .split(/\r?\n/)
+  .filter(line => !line.startsWith('<!--') && line.trim() !== '');
+const sections = [];
+let current = null;
+for (const line of lines) {
+  if (line.startsWith('# ')) {
+    if (current) sections.push(current);
+    current = { title: line.slice(2).trim(), items: [] };
+  } else if (line.startsWith('[')) {
+    const m = line.match(/^\[(.*?)\]\((.*?)\)\s*-\s*(.*)$/);
+    if (m && current) {
+      current.items.push({ title: m[1], url: m[2], description: m[3] });
+    }
+  }
+}
+if (current) sections.push(current);
 ---
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Links</title>
-    <!-- Tailwind styles are automatically injected by the Astro integration -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Web Dev</title>
 </head>
 <body class="bg-gray-100 text-gray-900 font-sans p-8">
-    <div class="container mx-auto max-w-4xl">
-        <h1 class="text-4xl font-bold mb-8 text-center text-blue-700">Resources</h1>
+  <div class="container mx-auto max-w-4xl">
+    <h1 class="text-4xl font-bold mb-8 text-center text-blue-700">Resources</h1>
 
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">Development Tools</h2>
-            <ul class="space-y-2">
-                <li class="bg-white p-4 rounded shadow hover:bg-blue-50 transition duration-150">
-                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Placeholder Tool 1</a>
-                    <p class="text-sm text-gray-600 mt-1">Description of the tool.</p>
-                </li>
-                <li class="bg-white p-4 rounded shadow hover:bg-blue-50 transition duration-150">
-                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Placeholder Tool 2</a>
-                    <p class="text-sm text-gray-600 mt-1">Another useful tool description.</p>
-                </li>
-            </ul>
-        </section>
-
-        <section class="mb-12">
-            <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">Documentation</h2>
-            <ul class="space-y-2">
-                <li class="bg-white p-4 rounded shadow hover:bg-green-50 transition duration-150">
-                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-green-600 hover:underline font-medium">Astro Docs</a>
-                </li>
-                <li class="bg-white p-4 rounded shadow hover:bg-green-50 transition duration-150">
-                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-green-600 hover:underline font-medium">Tailwind CSS Docs</a>
-                </li>
-            </ul>
-        </section>
-
-        <section>
-            <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">Other Links</h2>
-            <ul class="space-y-2">
-                <li class="bg-white p-4 rounded shadow hover:bg-purple-50 transition duration-150">
-                    <a href="#" target="_blank" rel="noopener noreferrer" class="text-purple-600 hover:underline font-medium">Interesting Article</a>
-                </li>
-            </ul>
-        </section>
-    </div>
+    {sections.map(({ title, items }) => (
+      <section class="mb-12">
+        <h2 class="text-2xl font-semibold mb-4 border-b pb-2 border-gray-300">{title}</h2>
+        <ul class="space-y-2">
+          {items.map(item => (
+            <li class="bg-white p-4 rounded shadow hover:bg-blue-50 transition duration-150">
+              <a href={item.url} target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">{item.title}</a>
+              {item.description && <p class="text-sm text-gray-600 mt-1">{item.description}</p>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </div>
 </body>
 </html>

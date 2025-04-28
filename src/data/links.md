@@ -15,7 +15,22 @@
 
 [XXX](#) - XXX.
 
+# MCP Servers
+
+[smithery](https://smithery.ai/) -  Model Context Protocol servers.
+
+
+[GitHub](https://github.com/modelcontextprotocol/servers) - reference implementations.
+
+[Azure MCP](https://github.com/Azure/azure-mcp) - key Azure services.
+
+
+[XXX](#) - XXX.
+
 # AI Learning
+
+[AlphaSignal newsletter](https://flask-bootstrap-mbs11.replit.app/) -  news, papers, models, and repos.
+
 
 [Semantic-kernel](https://devblogs.microsoft.com/semantic-kernel/) - Blogs
 

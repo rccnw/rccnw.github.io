@@ -12,6 +12,7 @@
 
 [Claude Code overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Learn about Claude Code, an agentic coding tool.
 
+
 [XXX](#) - XXX.
 
 # AI Learning
@@ -19,6 +20,12 @@
 [Semantic-kernel](https://devblogs.microsoft.com/semantic-kernel/) - Blogs
 
 [Claude Code](https://www.anthropic.com/engineering/claude-code-best-practices?utm_source=alphasignal) - Best practices for agentic coding.
+
+[Claude Code Agentic Coding](https://www.youtube.com/watch?v=2TIXl2rlA6Q) - Claude Code's Agentic Coding.
+
+
+[5 Types of AI Agents](https://www.youtube.com/watch?v=fXizBc03D7E) - YT vid
+
 
 # Mobile Dev
 [React Native quickstart](https://reactnative.dev/docs/environment-setup) - Get Started with React Native.

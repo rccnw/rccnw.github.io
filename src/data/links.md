@@ -17,6 +17,9 @@
 
 # MCP Servers
 
+
+[github-mcp-server](https://github.com/github/github-mcp-server) - seamless integration with GitHub APIs.
+
 [smithery](https://smithery.ai/) -  Model Context Protocol servers.
 
 
@@ -28,6 +31,8 @@
 [XXX](#) - XXX.
 
 # AI Learning
+
+[MCP](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/) - What the heck is MCP.
 
 [AlphaSignal newsletter](https://flask-bootstrap-mbs11.replit.app/) -  news, papers, models, and repos.
 
@@ -99,9 +104,24 @@
 
 
 
+# AI Papers and Discussion 
+
+
+[Dario Amodei](https://www.darioamodei.com/post/the-urgency-of-interpretability#what-we-can-do) - The Urgency of Interpretability.
+
+[Detection](https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025) - Detecting and Countering Malicious Uses of Claude: March 2025.
+[hidden objectives](https://www.anthropic.com/research/auditing-hidden-objectives) - Auditing language models for hidden objectives.
+[mechanisms](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) - On the Biology of a Large Language Model.
+[Tracing](https://www.anthropic.com/news/tracing-thoughts-language-model) - Tracing the thoughts of a large language model.
+[Intelligence Explosion](https://situational-awareness.ai/from-agi-to-superintelligence/) - From AGI to Superintelligence.
+
 
 
 
 [XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+
 
 

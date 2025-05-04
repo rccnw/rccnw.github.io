@@ -3,6 +3,8 @@
 
 # AI Dev
 
+[Claude](https://claude.ai/new) - home.
+
 [openrouter](https://openrouter.ai/) - single unified LLM interface.
 
 [Firebase Studio](https://firebase.studio/) - Build backends, front ends, and mobile apps.
@@ -10,8 +12,8 @@
 [Trae IDE](https://www.trae.ai/) - Collaborate.
 
 
-[Claude Code overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Learn about Claude Code, an agentic coding tool.
 
+Claude MCP Super Agents
 
 [XXX](#) - XXX.
 
@@ -27,10 +29,38 @@
 
 [Azure MCP](https://github.com/Azure/azure-mcp) - key Azure services.
 
+[Claude Desktop Commander](https://desktopcommander.app/) - without API token costs..
+https://www.youtube.com/watch?v=PHeFxC7Pxkg
+
+
+[5 MCP Servers For Vibe Coding](https://www.youtube.com/watch?v=LqTQi8qexJM) - context7,claude-task-master,exa-mcp-server,Memory,Magic.
+
+https://github.com/upstash/context7
+https://context7.com/
+https://github.com/eyaltoledano/claude-task-master
+https://github.com/exa-labs/exa-mcp-server
+https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+https://github.com/21st-dev/magic-mcp
+
+https://www.skool.com/tech-snack/about
+
 
 [XXX](#) - XXX.
 
+
+
 # AI Learning
+
+[anthropic docs](https://docs.anthropic.com/en/home) - tools and guides.
+
+
+
+[Claude Code overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) - Learn about Claude Code, an agentic coding tool.
+
+[Claude Code tutorials](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/tutorials) - Practical examples and patterns.
+
+
+[openrouter Quickstart](https://openrouter.ai/docs/quickstart) - examples.
 
 [MCP](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/) - What the heck is MCP.
 
@@ -45,6 +75,13 @@
 
 
 [5 Types of AI Agents](https://www.youtube.com/watch?v=fXizBc03D7E) - YT vid
+
+[NotebookLM Overview](https://www.youtube.com/watch?v=OyqOnswFIR4) - NotebookLM top 20 tutorials. @ 2:47
+ 
+[ai Business Plans](https://ai-businessplans.com/) - paid .
+
+[XXX](#) - XXX.
+
 
 
 # Mobile Dev

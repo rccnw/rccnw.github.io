@@ -11,6 +11,8 @@
 
 [Trae IDE](https://www.trae.ai/) - Collaborate.
 
+[Build a Local RAG System](https://www.youtube.com/watch?v=6diVTn3J7QE) - yt vid.
+
 
 
 Claude MCP Super Agents
@@ -80,12 +82,38 @@ https://www.skool.com/tech-snack/about
  
 [ai Business Plans](https://ai-businessplans.com/) - paid .
 
+[Use Gemini 2.5 + NotebookLM ](https://www.youtube.com/watch?v=8JI10_HNMLQ) - YT vid.
+
+[Claude MCP AI Super Agents](https://www.youtube.com/watch?v=a6TQNoarDQ0&t=106s) - YT vid.
+
+
+[Claude Code](https://www.anthropic.com/claude-code) - install.
+
+npm install -g @anthropic-ai/claude-code
+npm error Error: Claude Code is not supported on Windows.
+
+
+[Example Rules File](https://gist.github.com/yifanzz/3cfb8f9065769ffbf94348255f85597d) - XXX.
+
+VS Code - .github/copilot-instructions.md
+
+[BMAD Method](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method of Agile Dev AI.
+
+[BMAD V2 ](https://www.youtube.com/watch?v=p0barbrWgQA) - YT: Full Workflow Tutorial.
+
+
 [XXX](#) - XXX.
 
 
 
 # Mobile Dev
 [React Native quickstart](https://reactnative.dev/docs/environment-setup) - Get Started with React Native.
+
+[Polar for Impatient Devs](https://www.youtube.com/watch?v=wFje2kP4FWg) - monetisation platform.
+
+[XXX](#) - XXX.
+
+
 
 # Web Dev
 

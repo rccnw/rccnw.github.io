@@ -14,6 +14,19 @@
 [Build a Local RAG System](https://www.youtube.com/watch?v=6diVTn3J7QE) - yt vid.
 
 
+[automationanywhere](https://www.automationanywhere.com/) - Agentic Process Automation.
+
+[uipath](https://www.uipath.com/) - Robots and Agents Unite.
+
+[v7labs](https://www.v7labs.com/) - documents into AI workflows.
+
+[Google IO](https://www.youtube.com/watch?v=zLmwK4dBSkk) - YT.
+
+[Jules](https://blog.google/technology/google-labs/jules/) - asynchronous coding agent.
+
+[project-mariner](https://deepmind.google/models/project-mariner/) - human-agent interaction.
+
+[project-astra](https://deepmind.google/models/project-astra/) - universal AI assistant.
 
 Claude MCP Super Agents
 

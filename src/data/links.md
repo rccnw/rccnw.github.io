@@ -5,6 +5,15 @@
 
 [Claude](https://claude.ai/new) - home.
 
+[Copilot for Xcode](https://www.youtube.com/watch?v=gZYxtHtPSFY) - YT.
+
+
+[Gemini Gems](https://gemini.google/overview/gems/?hl=en) - Gemini GPT's.
+
+[Gemini Gems to build an AI assistant ](https://www.youtube.com/watch?v=u2eNyAOiWQE) - YT.
+
+
+
 [openrouter](https://openrouter.ai/) - single unified LLM interface.
 
 [Firebase Studio](https://firebase.studio/) - Build backends, front ends, and mobile apps.
@@ -115,9 +124,9 @@ VS Code - .github/copilot-instructions.md
 [BMAD V2 ](https://www.youtube.com/watch?v=p0barbrWgQA) - YT: Full Workflow Tutorial.
 
 
+[Ed Anderson](https://www.edandersen.com/p/github-copilot-for-upgrading-net) - Copilot for upgrading .NET project.
+
 [XXX](#) - XXX.
-
-
 
 # Mobile Dev
 [React Native quickstart](https://reactnative.dev/docs/environment-setup) - Get Started with React Native.

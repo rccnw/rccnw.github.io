@@ -75,6 +75,10 @@ https://www.skool.com/tech-snack/about
 
 # AI Learning
 
+
+
+[AI 2027](https://ai-2027.com/) - Daniel Kokotajlo - Timeline of future AI.
+
 [anthropic docs](https://docs.anthropic.com/en/home) - tools and guides.
 
 

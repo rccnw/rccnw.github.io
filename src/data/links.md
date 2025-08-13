@@ -1,7 +1,42 @@
 # General Learning
 [Substack](https://substack.com/home) - Blogs
 
+# Claude Code
+
+
+[Visual Studio Code WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - overview extension.
+
+
+[3 Tools That Unlock Claude Code's True Potentia](https://www.youtube.com/watch?v=2bGh_DlkubM&t=409s) - YT.
+
+
+[Top 13 Tricks](https://www.youtube.com/watch?v=T_IYHx-9VGU) - YT.
+
+[5 Claude Code MCP Servers](https://www.youtube.com/watch?v=sF799nFJONk) - YT.
+
+
+
+[Claude Code Workflow](https://www.youtube.com/watch?v=AXz6TMAwqnY) - YT.
+
+
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+
+
 # AI Dev
+
+
+
+[Lindy  - AI employee ](https://www.lindy.ai/) - create, manage, and share agents.
+
+
+[context7](https://context7.com/) - Up-to-date documentation for LLMs and AI code editors.
+
+[firecrawl](https://www.firecrawl.dev/) - XXX.
+
+[Open Lovable](https://www.youtube.com/watch?v=O7CQBH3FDvo) - Re-Imagine Websites.
 
 [Claude](https://claude.ai/new) - home.
 
@@ -39,9 +74,15 @@
 
 Claude MCP Super Agents
 
+
+[Jupyter Notebook w CoPilot](https://www.youtube.com/shorts/4JhauXADO18) - YT short. Do THIS before using Agent Mode with Jupyter Notebooks
+
+
 [XXX](#) - XXX.
 
 # MCP Servers
+
+[MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q) - YT vid .
 
 
 [github-mcp-server](https://github.com/github/github-mcp-server) - seamless integration with GitHub APIs.
@@ -72,10 +113,17 @@ https://www.skool.com/tech-snack/about
 [XXX](#) - XXX.
 
 
-
 # AI Learning
 
+[Claude Code](https://www.anthropic.com/claude-code) - setup.
 
+ 
+
+[JSON-LD] (https://www.google.com/search?q=advanced+json+context+profile&rlz=1C1RXQR_enUS1127US1127&oq=advanced+json+context+profile&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRiPAtIBCTEzNzUzajBqN6gCCLACAfEFA7H4gfs7zF4&sourceid=chrome&ie=UTF-8) - advanced JSON context profile
+
+[JSON Context Profile](https://shellypalmer.com/2025/05/the-one-file-that-will-level-up-your-generative-ai-game-and-how-to-write-it/) - How to write it.
+
+[TikTok](https://www.tiktok.com/t/ZP8rq1gWu/) - JSON Context Profile for image gen.
 
 [AI 2027](https://ai-2027.com/) - Daniel Kokotajlo - Timeline of future AI.
 
@@ -205,6 +253,12 @@ VS Code - .github/copilot-instructions.md
 [mechanisms](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) - On the Biology of a Large Language Model.
 [Tracing](https://www.anthropic.com/news/tracing-thoughts-language-model) - Tracing the thoughts of a large language model.
 [Intelligence Explosion](https://situational-awareness.ai/from-agi-to-superintelligence/) - From AGI to Superintelligence.
+
+
+# UI UX 
+
+[The Future of User Interaction](https://www.youtube.com/watch?v=gDSIxIGYk-o) - YT vid.
+
 
 
 

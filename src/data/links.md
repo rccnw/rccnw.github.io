@@ -19,7 +19,8 @@
 [Claude Code Workflow](https://www.youtube.com/watch?v=AXz6TMAwqnY) - YT.
 
 
-[XXX](#) - XXX.
+
+
 [XXX](#) - XXX.
 [XXX](#) - XXX.
 [XXX](#) - XXX.
@@ -27,7 +28,7 @@
 
 # AI Dev
 
-
+[AI Christianson](https://www.youtube.com/@AndrewIChristianson) - YT Channel AI topics.
 
 [Lindy  - AI employee ](https://www.lindy.ai/) - create, manage, and share agents.
 

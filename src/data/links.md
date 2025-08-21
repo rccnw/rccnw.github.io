@@ -22,12 +22,6 @@
 
 
 [Memory MCP ](https://www.youtube.com/watch?v=Lbl5YDuwb-s) - YT.
-[XXX](#) - XXX.
-[XXX](#) - XXX.
-[XXX](#) - XXX.
-[XXX](#) - XXX.
-[XXX](#) - XXX.
-
 
 
 [Visual Studio Code WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - overview extension.
@@ -343,5 +337,9 @@ VS Code - .github/copilot-instructions.md
 [XXX](#) - XXX.
 [XXX](#) - XXX.
 
-
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
 

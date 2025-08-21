@@ -1,7 +1,29 @@
+[SYNCHROS](https://rccnw.github.io/synchros/) - GH Pages.
+
+[SYNCHROS GH actions](https://github.com/rccnw/synchros/actions) - build workflows.
+[capacitorjs](https://capacitorjs.com/docs/getting-started) - XXX.
+[netlify projects](https://app.netlify.com/teams/rccnw/projects) - XXX.
+[netlify docs](https://docs.netlify.com/) - XXX.
+[Notion](https://www.notion.so/Getting-Started-40010f711db34ab7b635b89bdacab450) - XXX.
+
+
 # General Learning
 [Substack](https://substack.com/home) - Blogs
 
 # Claude Code
+
+
+[Building With AI PRDs](https://www.youtube.com/watch?v=j0yyNQ5eTSk) - YT.
+
+
+
+[Memory MCP ](https://www.youtube.com/watch?v=Lbl5YDuwb-s) - YT.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+
 
 
 [Visual Studio Code WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - overview extension.
@@ -20,13 +42,61 @@
 
 
 
+[5 Claude Code MCP Servers](https://www.youtube.com/watch?v=sF799nFJONk) - YT.
+1:50 - Ref (ref-tools/ref-tools-mcp)
+4:34 - Semgrep.(semgrep/mcp)
+6:59 - Pieces (idk)
+10:15 - Exa Search (exa-labs/exa-mcp-server)
+13:17 - Playwright (microsoft/playwright-mcp)
+
+
+
+[Top 13 Tricks](https://www.youtube.com/watch?v=T_IYHx-9VGU) - YT.
+
+
+[3 Tools](https://www.youtube.com/watch?v=2bGh_DlkubM&t=409s) - YT.
+
+
+[The Patterns That Actually Stuck](https://www.youtube.com/watch?v=IUi--nVU4yA) - YT.
+
+
+
+[Stunning Websites Using Claude Code](https://www.youtube.com/watch?v=McJluKfjVGk) - YT.
+
+[n8n mcp](https://www.youtube.com/watch?v=xf2i6Acs1mI) - YT.
+
+
+[Claudia](https://www.youtube.com/watch?v=qVk6UHMSYYQ) - YT - Claude Code GUI.
+
+
+[WORKFLOW for Complex Apps](https://www.youtube.com/watch?v=FjHtZnjNEBU) - YT.
+
+
+[Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0) - YT.
+
+
+[Intro for NOOBS](https://www.youtube.com/watch?v=smLqIAw0Aj8) - YT.
+[Claude Code for beginners](https://www.youtube.com/watch?v=U_vwfQBhVSY) - YT.
+[MCP dive](https://www.youtube.com/watch?v=FLpS7OfD5-s) - YT.
+
 
 [XXX](#) - XXX.
 [XXX](#) - XXX.
 [XXX](#) - XXX.
+[XXX](#) - XXX.
+
+
 
 
 # AI Dev
+
+[Gemini CLI](https://www.youtube.com/watch?v=A3AOeX1s7yw) - YT.
+[Context Engineering](https://www.youtube.com/watch?v=pIbIZ_Bxl_g) - YT.
+
+[Open Lovable](https://www.youtube.com/watch?v=O7CQBH3FDvo) - Re-Imagine Websites in Seconds.
+
+[open-lovable](https://github.com/mendableai/open-lovable) - Chat with AI to build React apps instantly.
+
 
 [AI Christianson](https://www.youtube.com/@AndrewIChristianson) - YT Channel AI topics.
 

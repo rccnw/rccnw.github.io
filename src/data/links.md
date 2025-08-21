@@ -7,6 +7,10 @@
 [Notion](https://www.notion.so/Getting-Started-40010f711db34ab7b635b89bdacab450) - XXX.
 
 
+
+# Visual Studio CoPilot
+[Using agent mode](https://www.youtube.com/watch?v=7oigGY_O6ns) - YT.
+
 # General Learning
 [Substack](https://substack.com/home) - Blogs
 

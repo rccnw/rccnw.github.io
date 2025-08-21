@@ -1,3 +1,6 @@
+
+# Synchros
+
 [SYNCHROS](https://rccnw.github.io/synchros/) - GH Pages.
 
 [SYNCHROS GH actions](https://github.com/rccnw/synchros/actions) - build workflows.
@@ -6,7 +9,6 @@
 [netlify docs](https://docs.netlify.com/) - XXX.
 [Notion](https://www.notion.so/Getting-Started-40010f711db34ab7b635b89bdacab450) - XXX.
 
---
 
 # Visual Studio CoPilot
 [Using agent mode](https://www.youtube.com/watch?v=7oigGY_O6ns) - YT.

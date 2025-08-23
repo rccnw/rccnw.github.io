@@ -4,10 +4,10 @@
 [SYNCHROS](https://rccnw.github.io/synchros/) - GH Pages.
 
 [SYNCHROS GH actions](https://github.com/rccnw/synchros/actions) - build workflows.
-[capacitorjs](https://capacitorjs.com/docs/getting-started) - XXX.
-[netlify projects](https://app.netlify.com/teams/rccnw/projects) - XXX.
-[netlify docs](https://docs.netlify.com/) - XXX.
-[Notion](https://www.notion.so/Getting-Started-40010f711db34ab7b635b89bdacab450) - XXX.
+[capacitorjs](https://capacitorjs.com/docs/getting-started) - .
+[netlify projects](https://app.netlify.com/teams/rccnw/projects) - .
+[netlify docs](https://docs.netlify.com/) - .
+[Notion](https://www.notion.so/Getting-Started-40010f711db34ab7b635b89bdacab450) - .
 
 
 # Visual Studio CoPilot
@@ -17,6 +17,12 @@
 [Substack](https://substack.com/home) - Blogs
 
 # Claude Code
+
+[PRD.md Tricks](https://www.youtube.com/watch?v=tLXKKQTvC44) - YT.
+
+[Agents.md Explained](https://youtu.be/XDP94mYMCzA?si=6v8F4SfE29NyXhRv) - YT.
+
+[Building and prototyping with Claude Code](https://www.youtube.com/watch?v=DAQJvGjlgVM) - YT.
 
 
 [Building With AI PRDs](https://www.youtube.com/watch?v=j0yyNQ5eTSk) - YT.
@@ -77,20 +83,45 @@
 
 [Intro for NOOBS](https://www.youtube.com/watch?v=smLqIAw0Aj8) - YT.
 [Claude Code for beginners](https://www.youtube.com/watch?v=U_vwfQBhVSY) - YT.
-[MCP dive](https://www.youtube.com/watch?v=FLpS7OfD5-s) - YT.
+
+
+
+
 
 
 [XXX](#) - XXX.
 [XXX](#) - XXX.
+
+
+# Agents
+
+[Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA&t=9s) - YT.
+
+
+[context engineering](https://www.youtube.com/results?search_query=context+engineering+for+agents) - YT.
+
+[6 CE Lessons](https://www.youtube.com/shorts/9txtxqyGOL4) - YT short
+
+
+
+
 [XXX](#) - XXX.
 [XXX](#) - XXX.
-
-
-
 
 # AI Dev
 
+[XXX](#) - XXX.
+[XXX](#) - XXX.
+
+
+[Warp summarized](https://www.youtube.com/watch?v=Ab7tRyN62yI) - YT - CLI  (Mac/Linux).
+
+
 [Gemini CLI](https://www.youtube.com/watch?v=A3AOeX1s7yw) - YT.
+
+[Gemini CLI 2.0:](https://www.youtube.com/watch?v=HL5p5OXuUUQ&t=29s) - YT.
+
+
 [Context Engineering](https://www.youtube.com/watch?v=pIbIZ_Bxl_g) - YT.
 
 [Open Lovable](https://www.youtube.com/watch?v=O7CQBH3FDvo) - Re-Imagine Websites in Seconds.
@@ -149,9 +180,33 @@ Claude MCP Super Agents
 [Jupyter Notebook w CoPilot](https://www.youtube.com/shorts/4JhauXADO18) - YT short. Do THIS before using Agent Mode with Jupyter Notebooks
 
 
+[Microsoft Copilot Studio ❤️ MCP](https://github.com/microsoft/mcsmcp) - GH repo.
+
+[XXMicrosoft Copilot StudioX](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio) - Overview) - .
+
+[Microsoft Copilot Studio on Azure](https://azure.microsoft.com/en-us/products/copilot-studio) - .
+
+[How to Use Microsoft Copilot Studio](https://www.youtube.com/watch?v=dX9MJM5EokE) - (Step-by-Step Tutorial).
+
+
 [XXX](#) - XXX.
 
+
 # MCP Servers
+
+
+[XXX](#) - XXX.
+
+[microsoft mechanics](https://microsoftmechanics.libsyn.com/build-autonomous-agents-in-copilot-studio-your-mcps-your-models-multi-agent) - CoPilot Studio MCPs.
+
+[API is not MCP](https://www.youtube.com/shorts/5gXeFtOdnVI) - YT short.
+
+[MCP dive](https://www.youtube.com/watch?v=FLpS7OfD5-s) - YT.
+
+[8 MCP Servers ](https://www.youtube.com/watch?v=Gqh_KdHP1Xk) - YT.
+
+
+[Figma MCP server](https://www.youtube.com/shorts/d93ZkeT87wY) - YT short.
 
 [MCP Dev Days: Day 1 - DevTools](https://www.youtube.com/watch?v=8-okWLAUI3Q) - YT vid .
 

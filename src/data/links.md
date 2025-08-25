@@ -18,6 +18,30 @@
 
 # Claude Code
 
+[Claude Code's (Short-Term) Memory](https://youtu.be/YL8KsWTlCKI?si=CgHMbHByC2ZhF_cW) - .
+[using sub-agents ](https://youtu.be/LCYBVpSB0Wo?si=bUPWtP_GU-V9_-sj) - .
+[Plan Mode](https://youtube.com/shorts/I3Ap7gF6Af8?si=MIlCPuTeIjWDCJ9H) - .
+[PRD Guide](https://youtu.be/MZjW7mlRgdw?si=0xADRudntQQaWghs) - .
+[Playwright MCP Subagents](https://youtu.be/xOO8Wt_i72s?si=rl7U57T6YSBtX4NY) - .
+[Sub Agents BUILD THEMSELVES](https://youtu.be/7B2HJr0Y68g?si=qTnnBKfsUu27I4Fq) - .
+
+
+[Claude closing chats](https://youtu.be/UKVSCFrWrpA?si=JfMZGV-6tFFcJYOZ) - .
+[Reverse-Engineered](https://youtu.be/i0P56Pm1Q3U?si=6vjLLuBXoAkcPWUB) - .
+[Voice Mode (MCP)](https://youtu.be/cYdwOD_-dQc?si=ui4m_zfaJajTepVP) - .
+
+
+
+[XXX](#) - XXX.
+
+
+
+[Jina AI Image API](https://www.youtube.com/watch?v=iQyFpmMlgUU) - generate images.
+
+[Claude and Jina AI integration](https://n8n.io/integrations/claude/and/jina-ai/) - .
+
+
+
 [PRD.md Tricks](https://www.youtube.com/watch?v=tLXKKQTvC44) - YT.
 
 [Agents.md Explained](https://youtu.be/XDP94mYMCzA?si=6v8F4SfE29NyXhRv) - YT.
@@ -195,7 +219,7 @@ Claude MCP Super Agents
 # MCP Servers
 
 
-[XXX](#) - XXX.
+[Playwright  -> MCP](https://youtu.be/CYKzGwffWr8?si=CkeyP-bIrKMS6dyI) - Playwright Can't Do This... But This MCP Can..
 
 [microsoft mechanics](https://microsoftmechanics.libsyn.com/build-autonomous-agents-in-copilot-studio-your-mcps-your-models-multi-agent) - CoPilot Studio MCPs.
 
@@ -312,6 +336,10 @@ VS Code - .github/copilot-instructions.md
 [Polar for Impatient Devs](https://www.youtube.com/watch?v=wFje2kP4FWg) - monetisation platform.
 
 [XXX](#) - XXX.
+
+
+
+[Use AI 1M+ Followers](https://www.sabrina.dev/p/how-i-use-ai-to-grow-1m-followers?r=b0xbw&utm_medium=ios&triedRedirect=true) - .
 
 
 

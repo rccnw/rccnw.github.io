@@ -14,9 +14,27 @@
 [Using agent mode](https://www.youtube.com/watch?v=7oigGY_O6ns) - YT.
 
 # General Learning
-[Substack](https://substack.com/home) - Blogs
+[Substack](https://substack.com/home) - Blog
 
 # Claude Code
+
+[MarketPlace](https://claudemarketplaces.com/) - claude code marketplaces.
+
+[Agentic Coding School](https://www.masterclaudecode.com/member/class/claude-code?chapterId=a18a2f9f-79ad-4c54-8563-6a9d6e2839c9&videoId=6bcc7916-72ca-440a-9f74-85c4e6cacd2a) - Master Claude Code.
+
+[XXX](#) - XXX.
+
+[Best practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Anthropic.
+
+[Claude Code Sub-Agents](https://www.youtube.com/watch?v=T2JDST3iYX4) - ParaThinker.
+
+
+
+[AGENTS.md](https://agents.md/) - README for agents.  ln -s AGENTS.md CLAUDE.md
+
+
+[Claude Engineer ](https://www.youtube.com/watch?v=6Rg5M69bMgQ&t=487s) - YT.
+[Rules.md](https://www.youtube.com/watch?v=Ir6ik3zGklQ&t=164s) - SoloSwiftCrafter.
 
 [Claude Code's (Short-Term) Memory](https://youtu.be/YL8KsWTlCKI?si=CgHMbHByC2ZhF_cW) - .
 [using sub-agents ](https://youtu.be/LCYBVpSB0Wo?si=bUPWtP_GU-V9_-sj) - .
@@ -118,6 +136,8 @@
 
 
 # Agents
+
+[agents in Copilot Studio](https://www.youtube.com/watch?v=OmJAtDFcSZY) - .
 
 [Context Engineering for Agents](https://www.youtube.com/watch?v=4GiqzUHD5AA&t=9s) - YT.
 

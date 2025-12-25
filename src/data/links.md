@@ -15,14 +15,25 @@
 
 # General Learning
 [Substack](https://substack.com/home) - Blog
+[Agent Skills](https://agentskills.io/home) - Agent Skills.
 
 # Claude Code
+
+[Build with Claude](https://platform.claude.com/docs/en/home) - docs.
+
+[Anthropic Blog](https://claude.com/blog/memory) - Bringing memory to Claude.
+
+[Anthropic YouTube](https://www.youtube.com/@anthropic-ai) - channel.
+
 
 [MarketPlace](https://claudemarketplaces.com/) - claude code marketplaces.
 
 [Agentic Coding School](https://www.masterclaudecode.com/member/class/claude-code?chapterId=a18a2f9f-79ad-4c54-8563-6a9d6e2839c9&videoId=6bcc7916-72ca-440a-9f74-85c4e6cacd2a) - Master Claude Code.
 
-[XXX](#) - XXX.
+[awesome-claude-skills](https://github.com/VoltAgent/awesome-claude-skills/) - awesome-claude-skills.
+
+[anthropic](https://github.com/anthropics/skills) - skills repo.
+
 
 [Best practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Anthropic.
 
@@ -51,7 +62,7 @@
 
 
 [XXX](#) - XXX.
-
+[XXX](#) - XXX.
 
 
 [Jina AI Image API](https://www.youtube.com/watch?v=iQyFpmMlgUU) - generate images.

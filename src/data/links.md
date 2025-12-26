@@ -19,6 +19,17 @@
 
 # Claude Code
 
+[Changelog](https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md) - anthropics claude-code.
+
+[Prompting best practices](#\https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-4-best-practices#multi-context-window-workflows) - Dec 26 2025.
+
+[harnesses](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) - Xlong running tasks.
+
+
+
+
+[typescript](https://claude-plugins.dev/skills/@KubrickCode/baedal/typescript) - typescript plugin.
+
 [Build with Claude](https://platform.claude.com/docs/en/home) - docs.
 
 [Anthropic Blog](https://claude.com/blog/memory) - Bringing memory to Claude.
@@ -144,6 +155,14 @@
 
 [XXX](#) - XXX.
 [XXX](#) - XXX.
+
+# Playwright
+
+[VS Code](https://playwright.dev/docs/getting-started-vscode) - Getting started - VS Code.
+
+[playwright-course](https://github.com/alexhddev/playwright-course#) - Github.
+
+[Udemy](https://www.udemy.com/course/playwright-e2e-testing-for-beginners-js-ts/learn/lecture/49961869#overview) - Playwright E2E Testing with AI.
 
 
 # Agents

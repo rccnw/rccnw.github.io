@@ -25,7 +25,16 @@
 
 [harnesses](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents) - Xlong running tasks.
 
+[Hooks](https://github.com/bartolli/claude-code-typescript-hooks) - XXX.
 
+
+[Claude Code Navigator](https://www.claude-hub.com/) - resources, tools, and community content.
+
+
+[LSP adapterXX](https://github.com/ktnyt/cclsp) - MCP server.
+
+
+[Chrome](https://claude.ai/chrome/installed) - beta.
 
 
 [typescript](https://claude-plugins.dev/skills/@KubrickCode/baedal/typescript) - typescript plugin.
